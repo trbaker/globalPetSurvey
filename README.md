@@ -1,2 +1,1 @@
-# globalPetSurvey
-https://esriurl.com/petsurvey
+https://trbaker.github.io/globalPetSurvey
