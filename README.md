@@ -1,1 +1,1 @@
-https://trbaker.github.io/globalPetSurvey
+https://trbaker.github.io/globalPetSurvey/images.html
